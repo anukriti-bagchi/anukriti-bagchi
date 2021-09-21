@@ -1,1 +1,3 @@
-Hello! I am Anukriti Bagchi and I am building a website to showcase my portfolio.
+# student portfolio
+
+Hey! Welcome to my portfolio. Its coming up tomorrow when I learn HTML and CSS with Tanay Pratap live on youtube.
