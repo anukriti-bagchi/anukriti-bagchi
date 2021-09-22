@@ -10,6 +10,7 @@ For now, I know:-
  3. Repl.it
  4. CHALK
  5. Netlify
+ 6. Hosting
 
 
 
